@@ -23,5 +23,13 @@ In order to run this program make sure you have python 3 installed in your machi
 ## Assumptions
  
 I have assumed that the program is always expected to read data that the structure will not change for example the date item will always be third value in the csv
+
+## Reasons to use python
+
+* Multi-paradigm. You can write object-oriented and functional code and there was no better way to solve this problem without using OOP
+* Python is much easy to use in data processing compared to other languages like Java.
+* Compatibility with use of linux terminal also contributed much to the decision.
+* Iteration in python is easy as this program expected me to loop through various components.
+
  
  
