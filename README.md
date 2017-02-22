@@ -9,6 +9,6 @@ I have included comments in my program so that anyone going through the code wil
 
 ### Prerequisites
 For this program to run efficiently one should have:
-*Python 3.5
-*Text editor
-*Git
+* Python 3.5
+* Text editor
+* Git
