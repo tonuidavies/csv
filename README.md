@@ -31,5 +31,14 @@ I have assumed that the program is always expected to read data that the structu
 * Compatibility with use of linux terminal also contributed much to the decision.
 * Iteration in python is easy as this program expected me to loop through various components.
 
+## Conclusion
+The task has been a good challenge for any developer and it has given me a chance to think beyond basic python functions and classes. I can conclude that the task was succesful since the objective was achieved. 
+I hope this will change how one will look at similar problems and come up with good solutions to such problems.
+
+Contributors and issues are welcomed.
+
+#### Tonui Davies
+
+
  
  
