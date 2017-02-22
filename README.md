@@ -21,7 +21,7 @@ In order to run this program make sure you have python 3 installed in your machi
  
  
  
- ## Assumptions
+## Assumptions
  
 I have assumed that the program is always expected to read data that the structure will not change for example the date item will always be third value in the csv
  
