@@ -146,7 +146,7 @@ class Loans:
 if __name__ == '__main__':
 
     loan = Loans()
-    loan.read_input("data/Loans.csv")
+    loan.read_input("Loans.csv")
 
     with open('Output.csv', 'w') as output_file:
         for network in loan.data:
