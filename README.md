@@ -14,5 +14,7 @@ For this program to run efficiently one should have:
 * Git
 
 ## Usage
-In order to run this program make sure you have python 3 installed in your machine or python3 environment activated and clone this repo into the folder you're working from
+In order to run this program make sure you have python 3 installed in your machine or python3 environment activated and clone this repo into the folder you're working from.
+
+
  # git clone https://github.com/tonuidavies/csv.git
