@@ -17,6 +17,12 @@ For this program to run efficiently one should have:
 In order to run this program make sure you have python 3 installed in your machine or python3 environment activated and clone this repo into the folder you're working from.
 
 ` # git clone https://github.com/tonuidavies/csv.git`
+
+Then run csv_file.py by running the following command on your terminal
+
+`# python csv_file.py`
+
+Finally find a newly created Output.csv file in your folder
  
  
  
